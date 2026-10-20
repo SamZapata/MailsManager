@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Proyecto de prueba para validar ejercicios prácticos con Ruby y Ruby on Rails. Por lo pronto se dispone el proyecto MailsManager para crear un usuario y enviar un correo de bienvenida. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+En el directorio ¨Ruby Programs" se encuentran algoritmos de ejercicios prácticos.
+- 
